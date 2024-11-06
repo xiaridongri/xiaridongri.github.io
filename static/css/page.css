@@ -13,6 +13,7 @@
 .page-content ol li{padding-left: 18px; }
 .page-content ol li::before {content: counter(list-counter) ". ";counter-increment: list-counter;font-weight: bold;position: absolute;left: 0;width: 18px; }
 .page-content ul li p,.page-content ol li p {margin-left: 0; }
+.page-content blockquote{border-left:5px solid #0969da;border-radius:10px;padding:5px 10px;margin: 0;}
 
 .page-list{line-height:1.8}
 .page-content li .date {  color: #666666;  vertical-align: top;  margin-right: 10px;display:inline-block;}

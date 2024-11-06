@@ -20,7 +20,7 @@
 }
 
 .page-post h1{font-size:22px;line-height:2.4; margin: 10px 0;padding: 0;color: #222;font-weight:bold;}
-.page-post  h2,.page-content  h3{font-size:16px;line-height:1.8; font-weight:bold;margin:0 0 10px 0;padding: 0}
+.page-post  h2,.page-post  h3{font-size:16px;line-height:1.8; font-weight:bold;margin:0 0 10px 0;padding: 0}
 .page-post  h2{font-size:18px;border-bottom:1px solid #eee;line-height:2.0;border-left:4px solid #999;padding-left:6px;}
 .page-post p{margin:0 0 10px 0;line-height:1.6;}
 .page-post a{color:#0267FF;}
@@ -33,6 +33,7 @@
 .page-post ol li{padding-left: 18px; }
 .page-post ol li::before {content: counter(list-counter) ". ";counter-increment: list-counter;font-weight: bold;position: absolute;left: 0;width: 18px; }
 .page-post ul li p,.page-post ol li p {margin-left: 0; }
+.page-post blockquote{border-left:5px solid #0969da;border-radius:10px;padding:5px 10px;margin: 0;}
 
 .page-post img {
   display: block;
