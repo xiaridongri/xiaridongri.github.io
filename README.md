@@ -20,7 +20,21 @@
 
 ### 下载链接
 
-待添加
+> 游戏:
+>
+> UC网盘：https://drive.uc.cn/s/5ef7c7903f9c4?public=1
+> 
+> 迅雷：https://pan.xunlei.com/s/VOB1G-MOmhBbi5gEh4XhMnfpA1?pwd=uwk7#
+> 
+> 解压工具：
+> 
+> UC：https://drive.uc.cn/s/e242ed94d4634?public=1
+> 
+> 迅雷： https://pan.xunlei.com/s/VOAeklILtclRAp6ajwwfPdWYA1?pwd=5wtk#
+> 
+> 解压密码是：qfafa点com
+> 
+> 下载后把.mp4改为.zip（不能改.rar或.7z）,用winrar（安卓用rar这个app）解压，不能用7-zip,解压两次就能得到一个文本，里面有下载直链。
 
 ### 玩法与操作
 
